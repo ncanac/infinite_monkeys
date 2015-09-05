@@ -1,0 +1,8 @@
+this is a
+test file
+so that
+i can test
+lots of
+things like
+removing end
+of lines

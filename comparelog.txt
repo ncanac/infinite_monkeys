@@ -1,0 +1,9 @@
+twain twain 310.845
+twain shake 585.177
+shake shake 309.196
+shake twain 1949.989
+dante dante 1867.866
+dante twain 2982.25
+dante shake 711.89
+shake dante 3296.98
+twain dante 5101.6
